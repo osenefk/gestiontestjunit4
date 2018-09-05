@@ -10,7 +10,7 @@ public class Calcul{
  
  public int calculSomme (int a, int b){
  
-		system.out.println("somme de a et de b");
+		System.out.println("somme de a et de b");
 	
 	}
 
